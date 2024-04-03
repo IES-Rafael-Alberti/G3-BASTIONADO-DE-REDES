@@ -161,7 +161,9 @@ El router pcWRT posee una opción para recibir notificaciones en caso que exista
 
 ### Firmware auto-actualizable
 
-[...]
+Para evitar múltiples posibles incidentes de seguridad, un router nunca debería auto-actualizarse. Es por ello que desactivaremos esta opción en nuestro router pcWRT, de modo que accederemos a _Settings_, a System, y bajaremos hasta la sección _Flash New Firmware_, donde pincharemos en la opción de actualización manual. Además, si queremos mantener la configuración actual, podremos marcar la opción _Keep Settings_.
+
+![Firmware-Auto](img/21-Firmware-Auto.png)
 
 ### Bloqueo de acceso al módem mediante IP
 
@@ -213,7 +215,9 @@ El router pcWRT posee una opción para recibir notificaciones en caso que exista
 
 ### Reseteo de fábrica
 
-[...]
+Si así lo deseamos, podemos resetear el router a su estado de fábrica, borrando todos los datos personales. Esta opción la encontramos en _Settings_, _System_, en la sección _Backup/Restore Settings_. Luego, tan sólo tendríamos que hacer clic en el botón _Restore Factory Default_.
+
+![Factory-Defaults](img/35-Factory-Defaults.png)
 
 ### HNAP
 
