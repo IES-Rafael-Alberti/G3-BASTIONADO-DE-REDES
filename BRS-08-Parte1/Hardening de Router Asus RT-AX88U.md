@@ -108,7 +108,7 @@ En la sección **Advanced Settings** (Configuración avanzada) > **Administratio
 - Desactivar acceso WAN, es decir restringir el acceso a LAN.
 - Activar un Captcha en el Login
 - Restringir el acceso a la WebUI a un único equipo que tengamos controlado.
-  ![Pasted image 20240402120007.png](./img/Pasted image 20240402120007.png)
+  ![Pasted image 20240402120007.png](./img/Pasted%20image%2020240402120007.png)
 
 ![Pasted image 20240402115631.png](./img/Pasted%20image%2020240402115631.png)
 
